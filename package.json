@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ChristopherJoshy.github.io/Quiz-App-React-first",
+  "homepage": "https://christopherjoshy.github.io/Quiz-App-React-first/",
   "keywords": [
     "quiz",
     "react",
